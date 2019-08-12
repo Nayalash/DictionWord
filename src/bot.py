@@ -5,7 +5,7 @@
 import discord
 import fetch
 
-TOKEN = "INSERT_TOKEN"
+TOKEN = "INSERT TOKEN"
 
 client = discord.Client()
 
