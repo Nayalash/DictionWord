@@ -3,9 +3,9 @@
 # bot.py
 
 import discord
-from src import fetch
+import fetch
 
-TOKEN = "NjA4Nzg4MzY3NzMxMzI2OTg2.XVBPvQ.rGW1CbeGWkWi2soSZxL7LMfMea0"
+TOKEN = "INSERT_TOKEN"
 
 client = discord.Client()
 
