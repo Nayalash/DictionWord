@@ -7,6 +7,8 @@ fetches the definition of any word.
   <img src="https://github.com/Nayalash/tbd/blob/master/docs/demo.gif" width="650" height="350"/>
 </p>
 
+WARNING: Above video is in slow motion, so please be patient
+
 ## Commands
 
 * GET information regarding the discord bot.
