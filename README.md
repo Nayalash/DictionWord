@@ -49,4 +49,4 @@ and their children living together as a unit.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Nayalash/DictionWord/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Nayalash/DictionWord/blob/master/LICENSE) file for details.
