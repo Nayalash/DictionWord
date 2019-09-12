@@ -4,7 +4,7 @@
 fetches the definition of any word.
 
 <p align="center">
-  <img src="https://github.com/Nayalash/tbd/blob/master/docs/demo.gif" width="650" height="350"/>
+  <img src="https://github.com/Nayalash/DictionWord/blob/master/docs/demo.gif" width="650" height="350"/>
 </p>
 
 WARNING: Above video is in slow motion, so please be patient
