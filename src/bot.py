@@ -9,6 +9,10 @@ TOKEN = "INSERT TOKEN"
 
 client = discord.Client()
 
+embed = discord.Embed(title="Diction Word", description="The DictionWord bot can find you any definition of a word, at the convenience of just one command")
+embed.add_field(name="!fetch word", value="Returns definition of the word")
+embed.add_field(name="Contact", value="https://github.com/Nayalash/DictionWord")
+
 
 @client.event
 async def on_ready():
@@ -28,9 +32,6 @@ async def on_message(message):
 
     elif message.content == "!help":
         await message.channel.trigger_typing()
-        embed = discord.Embed(title="Diction Word", description="The DictionWord bot can find you any definition of a word, at the convenience of just one command")
-        embed.add_field(name="!fetch word", value="Returns definition of the word")
-        embed.add_field(name="Contact", value="https://github.com/Nayalash/DictionWord")
         await message.channel.send(content=None, embed=embed)
 
 
